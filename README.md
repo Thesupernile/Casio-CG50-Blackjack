@@ -1,7 +1,7 @@
 # Casio-CG50-Blackjack
 Blackjack, the classic card game but created in python to run on the Casio CG50 calculator.
 
-<span style="color:blue">**DO NOT RUN ON DESKTOP**</span>
+:warning: **DO NOT RUN ON DESKTOP**
 
 The output will be very strangely formatted. The game is designed with the technical limitations of the Casio CG50 in mind so output is specifically tailored for this purpose.
 
