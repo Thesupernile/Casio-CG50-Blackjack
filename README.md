@@ -12,6 +12,16 @@ The output will be very strangely formatted. The game is designed with the techn
   * Dealer will draw until total is 17 or above
   * Calculates score and announces a winner
 
+# Installation
+  * Connect your Casio CG50 to your computer using the transfer cable included with the calculator
+  * Locate the calculator in file explorer
+  * Download the latest release of the program from: https://github.com/Thesupernile/Casio-CG50-Blackjack/releases
+  * Copy the file from your downloads folder into the calculator's main memory
+  * Complete the download by disconnecting the calculator from your computer
+  * Hit the menu button and then click "H" or navagate to the "Python" menu in the menu screen
+  * Select the file labelled BlackJack.py
+  * You're now ready to play the game
+
 # Screenshots
 
 Welcome screen:
